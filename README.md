@@ -3,6 +3,8 @@
 Hello, this project is based on the Ray Tracing in One Weekend book,
 meant for me to begin learning more about the graphics pipeline.
 
+image.ppm:
+    First image created.
 
 
 
